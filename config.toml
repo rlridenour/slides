@@ -10,4 +10,4 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
-theme = "white"
+theme = "simple"
