@@ -1,8 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Randy Ridenour — Presentations"
-
+disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
+
+[author]
+name = "Randy Ridenour"
 
 [outputFormats.Reveal]
 baseName = "index"
@@ -11,3 +14,7 @@ isHTML = true
 
 [params.reveal_hugo]
 theme = "simple"
+
+
+
+

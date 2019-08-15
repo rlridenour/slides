@@ -1,0 +1,6 @@
+@import "reveal-js/css/theme/template/mixins";
+@import "reveal-js/css/theme/template/settings";
+
+$backgroundColor: rgb(3, 129, 45);
+$mainColor: #fff;
+$headingColor: #fff;
